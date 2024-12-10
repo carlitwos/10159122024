@@ -4,7 +4,7 @@ http://fastream.xyz:8080/56963543132/Np3vHkkMdd5Q/63171
 #EXTINF:-1 tvg-logo="https://acortar.link/DnRWl2",CANAL 3📺
 https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1711932051.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/iBylbg",CANAL 4📺
-http://live.budtvlight.com:25461/bud-1465917/c1c3edba58/165213
+http://fastream.xyz:8080/56963543132/Np3vHkkMdd5Q/63181
 #EXTINF:-1 tvg-logo="https://acortar.link/TWHvti",CANAL 6📺
 http://fastream.xyz:8080/jaimespinozatv/5kf0qe/63174
 #EXTINF:-1 tvg-logo="https://acortar.link/T0Kl8w",CANAL 9📺
