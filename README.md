@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://acortar.link/4qdEpF",CANAL 2📺
-http://home-playtv.com:8080/CR87710034/BQNWY/52169
+http://fastream.xyz:8080/56963543132/Np3vHkkMdd5Q/63171
 #EXTINF:-1 tvg-logo="https://acortar.link/DnRWl2",CANAL 3📺
 https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1711932051.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/iBylbg",CANAL 4📺
-http://home-playtv.com:8080/CR87710034/BQNWY/37816
+http://live.budtvlight.com:25461/bud-1465917/c1c3edba58/165213
 #EXTINF:-1 tvg-logo="https://acortar.link/TWHvti",CANAL 6📺
-http://84423.xyz:8000/Lapsus0OO22x1x/03987ClI1119mx22x/126543
+http://fastream.xyz:8080/jaimespinozatv/5kf0qe/63174
 #EXTINF:-1 tvg-logo="https://acortar.link/T0Kl8w",CANAL 9📺
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/5aQUKR",CANAL 11📺
@@ -30,7 +30,7 @@ https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/chunklist_w1784207427.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/I8ubJB",CANAL 35📺
 http://tecnozone.site:8880/m7X4f6H-2/v8M9p3W-4/17013
 #EXTINF:-1 tvg-logo="https://acortar.link/rYX8RX",TVCA📺
-https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8?fm=hls
+http://zuiowy.net:8080/geovanny620/wvRvFGpHyTGk/124794
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/wSfpPio.jpeg",RTV CATOLICA CANAL 40📺
 https://stream.giostreaming.net:19360/canal40-usulutan/canal40-usulutan.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/tqAVsK",RTV CANAL 57📺
