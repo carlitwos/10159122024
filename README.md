@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://acortar.link/4qdEpF",CANAL 2📺
-http://fastream.xyz:8080/56963543132/Np3vHkkMdd5Q/63171
+http://tv.nousiptv.com:8080/548717/robertoc/51400
 #EXTINF:-1 tvg-logo="https://acortar.link/DnRWl2",CANAL 3📺
 https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1711932051.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/iBylbg",CANAL 4📺
